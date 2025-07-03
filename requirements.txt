@@ -1,0 +1,11 @@
+opencv-python
+numpy
+keras
+tensorflow
+mediapipe
+cvzone
+pyttsx3
+enchant
+pillow
+# tkinter is included with Python on Windows, but add for completeness
+# If on Linux, you may need to install python3-tk via your package manager 
